@@ -1,0 +1,11 @@
+)pening a Terminal Window (PowerShell)
+
+1. Click the Start button to open the Start Menu. (On Windows 8 and newer, you can open the
+search box directly by pressing the Windows key + S.) Start typing "powershell" in the search
+box.
+
+2. Choose "Windows PowerShell" from the list of results.
+
+3. Right—click on the PowerShell button in the taskbar and choose "Pin this program to taskbar."
+
+4. In the Powershell/Terminal window, type

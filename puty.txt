@@ -1,0 +1,7 @@
+TUTORIAL SHEET # 6
+
+1. A confined aquifer is 25 m thick and 2 km wide. Two observation well~s located 2 _km
+apart in the direction of flow indicate hydraulic head of 45 and 39.5 m. If the coefficient
+of permeability of the aquifer is 30 m/day, calculate (i\ total daily flow thro‘u.gh the
+aquifer, and (ii) piezometric head at an observation well located at 300 m from the
+upstream well.

@@ -1,0 +1,32 @@
+CEN-204 - ENGINEERING HYDROLOGY 
+Spring, 2017-18 
+TUTORIAL SHEET # 6 
+1. A confined aquifer is 25 m thick and 2 km wide. Two observation wells located 2 km 
+apart in the direction of flow indicate hydraulic head of 45 and 39.5 m. Ifthe coefficient 
+of permeability Of the aquifer is 30 m/day, calculate (i) total daily flow through the 
+aquifer. and (ii) piezometric head at an observation well located at 300 m from the 
+upstream well. 
+2. A pipe of 1.2 m diameter was provided in a reservoir to act as an outlet. Due to disuse, 
+it was buried and completely clogged up for some length by sediment deposited. 
+Measurements indicate the presence of fine sand (K1 = 10 m/day) deposit for a length 
+of 100 m, at the upstream end and of coarse sand (K2= 50 m/day) at the downstream 
+end for a length of 5O m. In between these two layers the presence of silty sand (K3=0.1 
+m/day) for some length is identified. For a head difference of 20 m on either side of the 
+clogged length, the seepage discharge is found to be 0.8 m3/day. Estimate the length of 
+the pipe filled up with silty sand. 
+3. An infiltration gallery taps an unconfined aquifer (K= 50 m/day) situated over a 
+horizontal impervious bed. For flow conditions shown in the figure below, estimate the 
+discharge collected per unit length of the gallery. 
+4. The discharge from a fully penetrating well operating under steady state in a confined 
+aquifer of 35 m thickness is 3000 lpm. Values of drawdown at two observation wells 
+12 and 120 m away from the well are 3.0 and 0.30 m respectively. Determine the 
+permeability of the aquifer. 
+5. An un-confined aquifer with hydraulic conductivity as 6m per day located at the top of 
+a horizontal aquiclude which connects two parallel water bodies A and B which are 
+1000 m apart. The water surface elevations of A and B, measured above the horizontal 
+aquiclude, are 12.0 m and 9.0 m. If a uniform recharge rate of 0.003 m3/day per m2 of 
+horizontal area occurs on the ground surface, estimate the followings: 
+a. The potentiometric surface profile. 
+b. The location and elevation of Water Table. 
+c. The seepage discharges into the lakes. 
+d. The recharge rate and total seepage flow per unit width of the aquifer. 

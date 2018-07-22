@@ -1,0 +1,69 @@
+ho darhngy
+
+CEN—204 — ENGINEERING HYDROLOGY
+Spring, 2017—18
+TUTORIAL SHEET # 6
+
+A confined nquifn_‘r is 25 m thick and 2 km wide. Two observation wells located 2 km
+apart in the direction of flow indicate hydrautic head of 45 and 39.5 m. If the coefficient
+ut permeability of the aquifer is 30 m/day, calculate (i) total daily flow through the
+
+aquiler. and (ii} piezometric head at an observation well located at 300 m from the
+upstream well
+
+2 _A pipe of l:Z m diameter was provided in a reservoir to act as an outlet. Due to disuse,
+i: was buried and completely clogged up for some length by sediment deposited.
+Mcasurements indicate the presence of fine sand (K; = 10 m/day) deposit for a length
+oft 100 m. at the upstream end and of coarse sand (K2= 50 m/day) at the downstream
+end for a length of 50 m. In between these two layers the presence of silty sand (K3=0.1
+m day) for some length is identified. For a head difference of 20 m on either side of the
+clogged length. the seepage discharge is found to be 0.8 m‘/day. Estimate the length of
+the pipe filled up with silty sand.
+
+ 
+
+‘sa
+
+An infiltration gallery taps an unconfined aquifer (K= 50 m/day) situated over a
+horizontal impervious bed. For flow conditions shown in the figure below, estimate the
+discharge collected per unit length of the gallery.
+
+     
+
+ 
+
+Water tabhle
+
+ 
+
+lDc. t l asd
+
+ 
+ 
+
+Bahu es Wl ce n >
+
+penetrating well operating under steady state in a confined
+3000 Ipm. Values of drawdown at two observatior.\ wells
+d 0.30 m respectively. Determine the
+
+4. The discharge from a fully.
+aquifer of 35 m thickness is
+12 and 120 m away from the well are 3.0 an
+
+permeability of the aquifer.
+
+i ivi d at the top of
+hydraulic conductivity as 6 m per day locate :
+i i lel water bodies A and B which are
+i I clude which connects two paral i
+TO':)%n;O:plinaq‘lt‘:e water surface elevations of A and B, measured above3 the honzorzxta;
+uiclude, ane 12.0 m and 9.0 m. If a uniform recharge rate of 0.903 m*/day per m* 0
+:ﬂrizonml area occurs on the ground surface, estimate the followings:
+
+5. An un—confined aquifer with
+
+a. The potentiometric surface profile.
+b. The r:eation and elevation of Water Table.
+c. The seepage discharges into the lakes.
+d. The recharge rate and total secpage flo"

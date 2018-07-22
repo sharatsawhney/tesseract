@@ -1,0 +1,97 @@
+a
+
+whod darhny
+
+CEN—204 — ENGINEERING HYDROLOGY
+Spring, 2017—18
+TUTORIAL EET # 6
+
+ 
+
+lr is 2 thick and 2 km wide. Two observation wells located 2 km
+C 8 i hydraulic head of 45 and 39. m. If the coefficient
+® ifer is 30 m/day, calculate () total daily flow through the
+piezometric head at an observation well located at 300 m from the
+
+low indica
+
+   
+
+ 
+ 
+
+     
+
+i up for some length by sediment deposited.
+e mou  of fine sand (K1 = 10 m/day) deposit for a length
+ie apstianm oind and of cortss sand (Kz= 50 m/day) at the downstream
+
+m. In between these two layers the presence of silty sand (K3=0.1
+d. For a head difference of 20 m on either side of the
+e is found to be 0.8 m‘Vday. Estimate the length of
+
+ 
+
+  
+
+  
+
+      
+ 
+
+o some length is ide
+
+    
+
+     
+
+an unconfined aquifer (K= 50 m/day) situated over a
+flow conditions shown in the figure below, estimate the
+
+An infiltr
+horizontal in
+
+        
+
+discha
+
+‘Goundsurfice
+
+ 
+
+150 m
+Horizontal, impervious bed
+
+ 
+
+ 
+
+‘The discharge from a fully penetrating well operating under steady state in a confined
+aquifer of 35 m thickness is 3000 Ipm. Valtes of drawdown at two observation wells
+12 and 120 m away from the well are 3.0 and 0.30 m respectively. Determine the
+
+permeability of the aquifer.
+ic conductivity as 6 m per day located at the top of
+is two parallel water bodies A and B which are
+
+and B, measured above the horizontal
+day per m‘ of
+
+An un—confined aquifer with hydrauli
+a horizontal aquiclude which connect
+1000 m apart. The water surface elevations of A
+aquiclude, are 12.0 m and 9.0 m. If a uniform recharge rate of 0.003 m
+forizontal area occurs on the ground surface, estimate the followings:
+The potentiometric surface profile.
+
+The location and elevation of Water Table.
+
+The secpage discharges into the lakes: z
+The recharge rate and total seepage flow per unit widh of the aqui
+
+ 
+
+&n oo
+
+ 
+
